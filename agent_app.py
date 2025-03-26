@@ -20,7 +20,7 @@ anthropic.Anthropic.count_tokens = dummy_count_tokens
 
 # Streamlit config
 st.set_page_config(page_title="Claude JIRA Agent", layout="wide")
-st.title("🤖 My GPT + JIRA Agent")
+st.title("🤖 JIRA Copilot")
 
 # Tools
 tools = [

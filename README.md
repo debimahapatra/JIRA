@@ -1,4 +1,4 @@
-# 🤖 JIRA AI Copilot
+# 🤖 JIRA AI Agent
 
 A ChatGPT-style Streamlit app powered by LangChain and Anthropic Claude that allows you to create, search, and edit JIRA issues using natural language.
 
